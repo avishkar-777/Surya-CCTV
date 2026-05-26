@@ -17,16 +17,16 @@ const Footer = () => {
               Your trusted partner for all CCTV, security, and electrical solutions. Securing your world, illuminating your future.
             </p>
             <div className="social-links">
-              <a href="#" target='blank' aria-label="Facebook">
+              {/* <a href="#" target='blank' aria-label="Facebook">
                 <FontAwesomeIcon icon={faFacebook} size="lg" />
               </a>
               <a href="#" target='blank' aria-label="Twitter">
                 <FontAwesomeIcon icon={faTwitter} size="lg" />
-              </a>
-              <a href="#" target='blank' aria-label="Instagram">
+              </a> */}
+              <a href="https://www.instagram.com/avinash.jain03?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target='blank' aria-label="Instagram">
                 <FontAwesomeIcon icon={faInstagram} size="lg" />
               </a>
-              <a href="https://wa.me/+917774963662" target='blank' aria-label="WhatsApp">
+              <a href="https://wa.me/+919049596936" target='blank' aria-label="WhatsApp">
                 <FontAwesomeIcon icon={faWhatsapp} size="lg" />
               </a>
             </div>
